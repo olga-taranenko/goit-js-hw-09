@@ -6,5 +6,5 @@ import"./assets/modulepreload-polyfill-3cfb730f.js";/* empty css                
       alt="${a}"      
     />
   </a>
-</li>`).join("");e.insertAdjacentHTML("afterbegin",n);lightbox=new i(".gallery a",{captions:!0,captionDelay:250,captionsData:"alt"});
+</li>`).join("");e.insertAdjacentHTML("afterbegin",n);new i(".gallery a",{captions:!0,captionDelay:250,captionsData:"alt"});
 //# sourceMappingURL=commonHelpers.js.map
